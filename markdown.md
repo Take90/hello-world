@@ -1,6 +1,7 @@
 1. `トップ` のリスト項目
   - ネストしたリスト項目
     - 更にネストしたリスト項目
+      - よりネスト
 
 ---
 
@@ -70,4 +71,7 @@ https://github.com/
 ----
 
 ![代替](https://gophercises.com/img/gophercises_jumping.gif "タイトル")  
+
+----
+
 <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GO_LEARN.png" alt="gopher" title="title" width="200" height="200">
